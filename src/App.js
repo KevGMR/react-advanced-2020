@@ -1,12 +1,10 @@
 import React from 'react'
-import Setup from './tutorial/2-useEffect/setup/2-useEffect-cleanup'
-// import Final from './tutorial/1-useState/final/1-error-example'
+import Setup from './tutorial/3-conditional-rendering/setup/3-show-hide'
 
 function App() {
   return (
     <div className='container'>
       <Setup />
-      {/* <Final /> */}
     </div>
   )
 }
