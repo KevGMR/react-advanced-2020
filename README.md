@@ -17,19 +17,21 @@
 
 8. Lorem Ipsum Generator
 9. Color Shades Generator
-10. Grocery Bud
+10. Grocery Bud // Kevs Todo // 3:51:39
 
 #### useRef
 
-11. Navbar
+11. Navbar // Kevs Todo // 4:41:27
 
 #### useContext
 
 12. Modal and Sidebar
-13. Stripe Menus
+13. Stripe Menus // Kevs Todo // 5:44:46
 
 #### useReducer and useContext
 
-14. Cart
+14. Cart // Kevs Todo // 6:41:55
 
 #### React Router
+
+CockTails Intro: 7:39:57
